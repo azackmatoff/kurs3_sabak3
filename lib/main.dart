@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kurs3_sabak3/home_view.dart';
+import 'package:kurs3_sabak3/views/home_view.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,3 +18,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+/// final vs const
